@@ -1,0 +1,1 @@
+ /home/sasha/StudioProjects/BucketList-Project/frontend/.dart_tool/flutter_build/94f99073ee98a71d8baa20848990005d/native_assets.yaml: 
